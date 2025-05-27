@@ -1,0 +1,7 @@
+Frontis,Profundidad,Forma aproximada del terreno,Tipología de planta deseada,Dormitorios,Espacio productivo,Nombre del plano
+8,10,Rectangular,Compacta,2,Sí,C_Pequeño_2_si.png
+8,10,Irregular,En L,3,No,L_Mediano_3_no.png
+8,10,Cuadrado,En U,2,Sí,U_Pequeño_2_si.png
+10,12,Alargado,Lineal (I),4,No,I_Mediano_4_no.png
+10,12,Cuadrado,No especifica,2,Sí,C_Pequeño_2_si.png
+8,10,Rectangular,No especifica,3,No,L_Mediano_3_no.png
