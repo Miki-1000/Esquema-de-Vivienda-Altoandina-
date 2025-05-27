@@ -1,0 +1,3 @@
+git add requirements.txt
+git commit -m "Agregar archivo de requisitos para Streamlit Cloud"
+git push
